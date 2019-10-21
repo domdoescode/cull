@@ -4,7 +4,9 @@ Hello! We have too much stuff, so we're giving a load to charity. We wanted to g
 
 ## Books
 
-### Cooking
+### Non-Fiction
+
+#### Cooking
 
 - [The Bread Bible](https://www.amazon.co.uk/Bread-Bible-Step-step-Photographs/dp/0754824063/ref=sr_1_3)
 - [Miss Dahl's Volumptuous Delights - Sophie Dahl](https://www.amazon.co.uk/Miss-Dahls-Voluptuous-Delights-Sophie/dp/0007261179/ref=sr_1_5)
@@ -20,7 +22,18 @@ Hello! We have too much stuff, so we're giving a load to charity. We wanted to g
 - [The Usborne Beginner's Cookbook](https://www.amazon.co.uk/Usborne-Beginners-Cookbook-Fiona-Watt/dp/074603380X/ref=sr_1_2)
 - [Le Gavroche Cookbook - Michel Roux Jr](https://www.amazon.co.uk/Gavroche-Cookbook-Michel-Roux-Jr/dp/1409174409/ref=sr_1_1)
 
-### Harry Potter - JK Rowling
+#### Other
+
+- [The Graffiti File - Nigel Rees](https://www.amazon.co.uk/Graffiti-File-Nigel-Rees/dp/B001VDEF4W/ref=sr_1_1)
+- [Are You Dave Gorman? - Dave Gorman & Danny Wallace](https://www.amazon.co.uk/Are-Dave-Gorman-Danny-Wallace/dp/0091884713/ref=sr_1_1)
+- [When You Dead, You Dead - Guy Martin](https://www.amazon.co.uk/Guy-Martin-When-You-Dead/dp/0753556677/ref=sr_1_1)
+- [Getting Things Done - David Allen](https://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947/ref=sr_1_1)
+- [Walden: or, Life in the Woods - Henry David Thoreau](https://www.amazon.co.uk/Walden-Henry-David-Thoreau/dp/1975665139/ref=sr_1_1)
+- [Aromatherapy for Women - Maggie Tisserand](https://www.amazon.co.uk/Aromatherapy-Women-essential-health-emotions/dp/0722522606/ref=sr_1_1)
+
+### Fiction
+
+#### Harry Potter - JK Rowling
 
 - [Harry Potter and the Prisoner of Azkaban](https://www.amazon.co.uk/Harry-Potter-Prisoner-Azkaban/dp/1408855674/ref=sr_1_2)
 
@@ -57,15 +70,6 @@ Hello! We have too much stuff, so we're giving a load to charity. We wanted to g
 - [Less Than Zero - Bret Easton Ellis](https://www.amazon.co.uk/Less-Than-Zero-Easton-Ellis/dp/0330539329/ref=sr_1_1)
 - [Use of Weapons - Iain M. Banks](https://www.amazon.co.uk/Use-Weapons-Iain-M-Banks/dp/185723135X/ref=sr_1_1)
 - [The Killer Cat Collection - Anne Fine](https://www.amazon.co.uk/Killer-Collection-£19-96-Strikes-Birthday/dp/B003YH82A6/ref=sr_1_7)
-
-### Non-Fiction
-
-- [The Graffiti File - Nigel Rees](https://www.amazon.co.uk/Graffiti-File-Nigel-Rees/dp/B001VDEF4W/ref=sr_1_1)
-- [Are You Dave Gorman? - Dave Gorman & Danny Wallace](https://www.amazon.co.uk/Are-Dave-Gorman-Danny-Wallace/dp/0091884713/ref=sr_1_1)
-- [When You Dead, You Dead - Guy Martin](https://www.amazon.co.uk/Guy-Martin-When-You-Dead/dp/0753556677/ref=sr_1_1)
-- [Getting Things Done - David Allen](https://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947/ref=sr_1_1)
-- [Walden: or, Life in the Woods - Henry David Thoreau](https://www.amazon.co.uk/Walden-Henry-David-Thoreau/dp/1975665139/ref=sr_1_1)
-- [Aromatherapy for Women - Maggie Tisserand](https://www.amazon.co.uk/Aromatherapy-Women-essential-health-emotions/dp/0722522606/ref=sr_1_1)
 
 ## DVDs
 
