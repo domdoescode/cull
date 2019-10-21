@@ -48,10 +48,10 @@ Hello! We're trying to clear some more space and declutter, so thought we'd offe
 - ~[Snuff](https://www.amazon.co.uk/Snuff-Discworld-Novel-39-Novels/dp/0552166758/ref=sr_1_1)~ [Fitz]
 
 #### Hitch Hiker's Guide
-- [Hitch Hiker's Guide to the Galaxy](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0330508113/ref=sr_1_10)
-- [The Restaurant at the End of the Universe](https://www.amazon.co.uk/Restaurant-Universe-Hitchhikers-Guide-Galaxy/dp/0330491210/ref=sr_1_1)
-- [Life, the Universe, and Everything](https://www.amazon.co.uk/Universe-Everything-Hitchhikers-Guide-Galaxy/dp/0330491202/ref=sr_1_3)
-- [So Long, and Thanks for all the Fish](https://www.amazon.co.uk/Long-Thanks-Hitchhikers-Guide-Galaxy/dp/1509808353/ref=sr_1_1)
+- ~[Hitch Hiker's Guide to the Galaxy](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0330508113/ref=sr_1_10)~ [Matt]
+- ~[The Restaurant at the End of the Universe](https://www.amazon.co.uk/Restaurant-Universe-Hitchhikers-Guide-Galaxy/dp/0330491210/ref=sr_1_1)~ [Matt]
+- ~[Life, the Universe, and Everything](https://www.amazon.co.uk/Universe-Everything-Hitchhikers-Guide-Galaxy/dp/0330491202/ref=sr_1_3)~ [Matt]
+- ~[So Long, and Thanks for all the Fish](https://www.amazon.co.uk/Long-Thanks-Hitchhikers-Guide-Galaxy/dp/1509808353/ref=sr_1_1)~ [Matt]
 
 #### Redwall - Brian Jacques
 - [Mossflower](https://www.amazon.co.uk/Mossflower-Redwall-Brian-Jacques/dp/1862301395/ref=sr_1_1)
