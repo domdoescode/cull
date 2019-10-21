@@ -1,4 +1,4 @@
-Hello! We have too much stuff, so we're giving a load to charity. We wanted to give first refusal to friends and family, however. Please feel free to take a look at the bits below.
+Hello! We're trying to clear some more space and declutter, so thought we'd offer up some of the contents of our house we no longer want. If anything takes your fancy, give me a shout!
 
 # Stuff to Cull
 
