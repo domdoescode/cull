@@ -11,7 +11,7 @@ Hello! We're trying to clear some more space and declutter, so thought we'd offe
 - [The Bread Bible](https://www.amazon.co.uk/Bread-Bible-Step-step-Photographs/dp/0754824063/ref=sr_1_3)
 - [Miss Dahl's Volumptuous Delights - Sophie Dahl](https://www.amazon.co.uk/Miss-Dahls-Voluptuous-Delights-Sophie/dp/0007261179/ref=sr_1_5)
 - [Jamie's Kitchen - Jamie Oliver](https://www.amazon.co.uk/Jamies-Kitchen-Jamie-Oliver/dp/071814564X/ref=sr_1_1)
-- [Ultimate Slow Cooker](https://www.amazon.co.uk/Ultimate-Slow-Cooker-delicious-recipes/dp/0600618951/ref=sr_1_1)
+- ~[Ultimate Slow Cooker](https://www.amazon.co.uk/Ultimate-Slow-Cooker-delicious-recipes/dp/0600618951/ref=sr_1_1)~ [Sam] 
 - [Linda's Kitchen - Linda McCartney](https://www.amazon.co.uk/Lindas-Kitchen-Inspiring-Recipes-without/dp/0316877352/ref=sr_1_1)
 - [Plenty More - Yotam Ottolenghi](https://www.amazon.co.uk/Plenty-More-Yotam-Ottolenghi/dp/009195715X/ref=sr_1_1)
 - [Delia's Frugal Food - Delia Smith](https://www.amazon.co.uk/Delias-Frugal-Food-Delia-Smith/dp/034091856X/ref=sr_1_1)
@@ -39,13 +39,13 @@ Hello! We're trying to clear some more space and declutter, so thought we'd offe
 
 #### Discworld - Terry Pratchett
 
-- [The Colour of Magic](https://www.amazon.co.uk/Colour-Magic-Discworld-Novel-Novels/dp/0552166596/ref=sr_1_1)
-- [Soul Music](https://www.amazon.co.uk/Soul-Music-Discworld-Novel-Novels/dp/055216755X/ref=sr_1_1)
-- [Maskerade](https://www.amazon.co.uk/Maskerade-Discworld-Novel-18-Novels/dp/0552167568/ref=sr_1_1)
-- [Wyrd Sisters](https://www.amazon.co.uk/Wyrd-Sisters-Discworld-Novel-Novels/dp/0552166642/ref=sr_1_1)
-- [The Light Fantastic](https://www.amazon.co.uk/Light-Fantastic-Discworld-Novel-Novels/dp/055216660X/ref=sr_1_1)
-- [Mort](https://www.amazon.co.uk/Mort-Discworld-Novel-Novels/dp/0552166626/ref=sr_1_1)
-- [Snuff](https://www.amazon.co.uk/Snuff-Discworld-Novel-39-Novels/dp/0552166758/ref=sr_1_1)
+- ~[The Colour of Magic](https://www.amazon.co.uk/Colour-Magic-Discworld-Novel-Novels/dp/0552166596/ref=sr_1_1)~ [Fitz]
+- ~[Soul Music](https://www.amazon.co.uk/Soul-Music-Discworld-Novel-Novels/dp/055216755X/ref=sr_1_1)~ [Fitz]
+- ~[Maskerade](https://www.amazon.co.uk/Maskerade-Discworld-Novel-18-Novels/dp/0552167568/ref=sr_1_1)~ [Fitz]
+- ~[Wyrd Sisters](https://www.amazon.co.uk/Wyrd-Sisters-Discworld-Novel-Novels/dp/0552166642/ref=sr_1_1)~ [Fitz]
+- ~[The Light Fantastic](https://www.amazon.co.uk/Light-Fantastic-Discworld-Novel-Novels/dp/055216660X/ref=sr_1_1)~ [Fitz]
+- ~[Mort](https://www.amazon.co.uk/Mort-Discworld-Novel-Novels/dp/0552166626/ref=sr_1_1)~ [Fitz]
+- ~[Snuff](https://www.amazon.co.uk/Snuff-Discworld-Novel-39-Novels/dp/0552166758/ref=sr_1_1)~ [Fitz]
 
 #### Hitch Hiker's Guide
 - [Hitch Hiker's Guide to the Galaxy](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0330508113/ref=sr_1_10)
@@ -66,7 +66,7 @@ Hello! We're trying to clear some more space and declutter, so thought we'd offe
 - [The Black Cloud - Fred Hoyle](https://www.amazon.co.uk/Black-Cloud-Penguin-Modern-Classics/dp/0141196408/ref=sr_1_1)
 - [Dune - Frank Herbert](https://www.amazon.co.uk/Dune-Frank-Herbert/dp/0340960191/ref=sr_1_1)
 - [The Wasp Factory - Iain Banks](https://www.amazon.co.uk/Wasp-Factory-Iain-Banks/dp/0349139180/ref=sr_1_1?)
-- [Do Androids Dream of Electric Sheep? - Philip K Dick](https://www.amazon.co.uk/Androids-Dream-Electric-Sheep-Masterworks/dp/0575079932/ref=sr_1_1)
+- ~[Do Androids Dream of Electric Sheep? - Philip K Dick](https://www.amazon.co.uk/Androids-Dream-Electric-Sheep-Masterworks/dp/0575079932/ref=sr_1_1)~ [Fitz]
 - [Less Than Zero - Bret Easton Ellis](https://www.amazon.co.uk/Less-Than-Zero-Easton-Ellis/dp/0330539329/ref=sr_1_1)
 - [Use of Weapons - Iain M. Banks](https://www.amazon.co.uk/Use-Weapons-Iain-M-Banks/dp/185723135X/ref=sr_1_1)
 - [The Killer Cat Collection - Anne Fine](https://www.amazon.co.uk/Killer-Collection-£19-96-Strikes-Birthday/dp/B003YH82A6/ref=sr_1_7)
