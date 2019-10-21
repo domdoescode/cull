@@ -12,6 +12,9 @@
 - [Kitchen Classics Slow Cookers](https://www.amazon.co.uk/Slow-Cookers-Recipes-Kitchen-Classics/dp/1741962269/ref=sr_1_1)
 - [Cakes for Fun - Jane Asher](https://www.amazon.co.uk/Cakes-Fun-Ha-Jane-Asher/dp/0857205331/ref=sr_1_1)
 - [Deliciously Ella - Ella Woodward](https://www.amazon.co.uk/Deliciously-Ella-Awesome-ingredients-incredible/dp/1444795007/ref=sr_1_3)
+- [The New Students Veggie Cook Book](https://www.amazon.co.uk/New-Students-Veggie-Cook-Book/dp/0572024002/ref=sr_1_2)
+- [The Usborne Beginner's Cookbook](https://www.amazon.co.uk/Usborne-Beginners-Cookbook-Fiona-Watt/dp/074603380X/ref=sr_1_2)
+- [Le Gavroche Cookbook - Michel Roux Jr](https://www.amazon.co.uk/Gavroche-Cookbook-Michel-Roux-Jr/dp/1409174409/ref=sr_1_1)
 
 ### Other
 
