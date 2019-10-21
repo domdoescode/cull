@@ -2,6 +2,9 @@ Hello! We're trying to clear some more space and declutter, so thought we'd offe
 
 # Stuff to Cull
 
+- [ ] Test checkbox 1
+- [x] Test checkbox 2
+
 ## Books
 
 ### Non-Fiction
