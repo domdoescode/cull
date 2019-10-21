@@ -12,3 +12,7 @@
 - [Kitchen Classics Slow Cookers](https://www.amazon.co.uk/Slow-Cookers-Recipes-Kitchen-Classics/dp/1741962269/ref=sr_1_1)
 - [Cakes for Fun - Jane Asher](https://www.amazon.co.uk/Cakes-Fun-Ha-Jane-Asher/dp/0857205331/ref=sr_1_1)
 - [Deliciously Ella - Ella Woodward](https://www.amazon.co.uk/Deliciously-Ella-Awesome-ingredients-incredible/dp/1444795007/ref=sr_1_3)
+
+### Other
+
+- [Aromatherapy for Women - Maggie Tisserand](https://www.amazon.co.uk/Aromatherapy-Women-essential-health-emotions/dp/0722522606/ref=sr_1_1)
