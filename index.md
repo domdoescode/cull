@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Books
 
-You can use the [editor on GitHub](https://github.com/domudall/cull/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Cooking
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/domudall/cull/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [The Bread Bible](https://www.amazon.co.uk/Bread-Bible-Step-step-Photographs/dp/0754824063/ref=sr_1_3)
+- [Miss Dahl's Volumptuous Delights - Sophie Dahl](https://www.amazon.co.uk/Miss-Dahls-Voluptuous-Delights-Sophie/dp/0007261179/ref=sr_1_5)
+- [Jamie's Kitchen - Jamie Oliver](https://www.amazon.co.uk/Jamies-Kitchen-Jamie-Oliver/dp/071814564X/ref=sr_1_1)
+- [Ultimate Slow Cooker](https://www.amazon.co.uk/Ultimate-Slow-Cooker-delicious-recipes/dp/0600618951/ref=sr_1_1)
+- [Linda's Kitchen - Linda McCartney](https://www.amazon.co.uk/Lindas-Kitchen-Inspiring-Recipes-without/dp/0316877352/ref=sr_1_1)
+- [Plenty More - Yotam Ottolenghi](https://www.amazon.co.uk/Plenty-More-Yotam-Ottolenghi/dp/009195715X/ref=sr_1_1)
+- [Delia's Frugal Food - Delia Smith](https://www.amazon.co.uk/Delias-Frugal-Food-Delia-Smith/dp/034091856X/ref=sr_1_1)
+- [Kitchen Classics Slow Cookers](https://www.amazon.co.uk/Slow-Cookers-Recipes-Kitchen-Classics/dp/1741962269/ref=sr_1_1)
+- [Cakes for Fun - Jane Asher](https://www.amazon.co.uk/Cakes-Fun-Ha-Jane-Asher/dp/0857205331/ref=sr_1_1)
+- [Deliciously Ella - Ella Woodward](https://www.amazon.co.uk/Deliciously-Ella-Awesome-ingredients-incredible/dp/1444795007/ref=sr_1_3)
